@@ -3,7 +3,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 It provides actionable insights into Finance, Sales, Marketing, Supply Chain, and Executive operations, enabling stakeholders to make informed decisions for strategic growth.
 
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 :
 
   𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰: Explore P&L statements, product-level analysis, and Net Sales trends.
 
@@ -17,7 +17,7 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
 
 
-𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 :
 
   The dashboard gathers data from multiple sources:
 
@@ -26,7 +26,7 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
 
 
-𝐒𝐤𝐢𝐥𝐥𝐬 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
+𝐒𝐤𝐢𝐥𝐥𝐬 :
 
   DAX calculations
 
