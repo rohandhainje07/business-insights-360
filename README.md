@@ -21,8 +21,8 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
   The dashboard gathers data from multiple sources:
 
-   𝐄𝐱𝐜𝐞𝐥 / 𝐂𝐒𝐕 𝐟𝐢𝐥𝐞𝐬: Targets, Market Share, and related datasets
-   𝐅𝐚𝐜𝐭 𝐚𝐧𝐝 𝐃𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧 𝐭𝐚𝐛𝐥𝐞𝐬
+   𝐄𝐱𝐜𝐞𝐥 / 𝐂𝐒𝐕 𝐟𝐢𝐥𝐞𝐬: Targets, Market Share, and related datasets        
+   
 
 
 
