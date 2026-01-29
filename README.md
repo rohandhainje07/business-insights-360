@@ -1,100 +1,37 @@
 # business-insights-360
-End-to-end Power BI dashboard project for Atliq Technologies covering Finance, Sales, Marketing, Supply Chain, and Executive insights.
-This project is an end-to-end Power BI dashboard built for Atliq Technologies, designed to analyze and visualize key business metrics across Finance, Sales, Marketing, Supply Chain, and Executive domains.
-It converts raw data (1M+ records) into actionable insights, enabling faster and more accurate decision-making.
+This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Technologies.
+It provides actionable insights into Finance, Sales, Marketing, Supply Chain, and Executive operations, enabling stakeholders to make informed decisions for strategic growth.
 
-⭐ Features
-🏠 Home View
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 
 
-Central navigation hub for all dashboards.
+  • 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰: Explore P&L statements, product-level analysis, and Net Sales trends.
+  • 𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰: Analyze customer and product performance using dynamic charts, filters, and KPIs.
+  • 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰: Gain insights into product and regional performance metrics.
+  • 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰: Review Forecast Accuracy, Net Error, and risk metrics.
+  • 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: Access high-level insights with KPI cards and revenue breakdowns.
 
-💰 Finance View
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬
+The dashboard gathers data from multiple sources:
 
-Dynamic P&L statements
+ • 𝐄𝐱𝐜𝐞𝐥 / 𝐂𝐒𝐕 𝐟𝐢𝐥𝐞𝐬: Targets, Market Share, and related datasets
+ • 𝐅𝐚𝐜𝐭 𝐚𝐧𝐝 𝐃𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧 𝐭𝐚𝐛𝐥𝐞𝐬
 
-Customer, product & country analysis
+𝐒𝐤𝐢𝐥𝐥𝐬 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
+ • DAX calculations
 
-Net Sales, Gross Margin, Operating Profit trends
+ • Data modelling
 
-📊 Sales View
+ • ETL (Extract–Transform–Load)
 
-Customer performance insights
+ • Data visualization techniques
 
-Net Sales & GM% analysis
+ • Data interpretation
 
-Profitability–Growth Matrix to identify high-value customers
+ • Dashboard design principles
 
-🎯 Marketing View
+ • User-centric design
 
-Product-level performance
+ • Stakeholder communication
 
-Net Sales & GM% mapping
+ • Data integration from multiple sources (Excel/CSV, MySQL, etc.)
 
-Profitability–Growth segmentation
-
-🚚 Supply Chain View
-
-Forecast Accuracy
-
-Net Error
-
-Risk profiling across segments & categories
-
-👩‍💼 Executive View
-
-High-level KPI cards
-
-Consolidated business health overview
-
-🤝 Support View
-
-User help & quick guidance section
-
-📁 Data Sources
-
-This dashboard brings data from multiple sources:
-
-Excel / CSV files
-
-Fact & Dimension tables
-
-Targets, Market Share, and Forecast datasets
-
-🛠 Skills Learned
-📌 Power BI Skills
-
-Data Modeling (Star Schema)
-
-DAX (measures & calculations)
-
-KPI indicators & conditional formatting
-
-Slicers, tooltips & bookmarks
-
-Page navigation & UX design
-
-Date table creation
-
-📌 Business Skills
-
-Net Sales, GM%, Profitability metrics
-
-Customer & product analytics
-
-Market performance analysis
-
-YTD / YoY trends
-
-Supply chain metrics (FA, NE)
-
-📌 Soft Skills
-
-Business problem understanding
-
-Requirement breakdown
-
-Data storytelling
-
-User-centric design
-
-Attention to detail
