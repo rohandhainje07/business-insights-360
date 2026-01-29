@@ -2,42 +2,42 @@
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Technologies.
 It provides actionable insights into Finance, Sales, Marketing, Supply Chain, and Executive operations, enabling stakeholders to make informed decisions for strategic growth.
 
-Features
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
-  Finance View: Explore P&L statements, product-level analysis, and Net Sales trends.
+  𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰: Explore P&L statements, product-level analysis, and Net Sales trends.
 
-  Sales View: Analyze customer and product performance using dynamic charts, filters, and KPIs.
+  𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰: Analyze customer and product performance using dynamic charts, filters, and KPIs.
 
-  Marketing View: Gain insights into product and regional performance metrics.
+  𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰: Gain insights into product and regional performance metrics.
 
-  Supply Chain View: Review Forecast Accuracy, Net Error, and risk metrics.
+  𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰: Review Forecast Accuracy, Net Error, and risk metrics.
 
-  Executive View: Access high-level insights with KPI cards and revenue breakdowns.
+  𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: Access high-level insights with KPI cards and revenue breakdowns.
 
-Data Sources
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬
 
   The dashboard gathers data from multiple sources:
 
-   Excel / CSV files: Targets, Market Share, and related datasets
+   𝐄𝐱𝐜𝐞𝐥 / 𝐂𝐒𝐕 𝐟𝐢𝐥𝐞𝐬: Targets, Market Share, and related datasets
 
-   Fact and Dimension tables
+   𝐅𝐚𝐜𝐭 𝐚𝐧𝐝 𝐃𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧 𝐭𝐚𝐛𝐥𝐞𝐬
 
-Skills Learned
+𝐒𝐤𝐢𝐥𝐥𝐬 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
 
-DAX calculations
+  DAX calculations
 
-Data modelling
+  Data modelling
 
-ETL (Extract–Transform–Load)
+  ETL (Extract–Transform–Load)
 
-Data visualization techniques
+  Data visualization techniques
 
-Data interpretation
+  Data interpretation
 
-Dashboard design principles
+  Dashboard design principles
 
-User-centric design
+  User-centric design
 
-Stakeholder communication
+  Stakeholder communication
 
-Data integration from multiple sources (Excel/CSV, MySQL, etc.)
+  Data integration from multiple sources (Excel/CSV, MySQL, etc.)
