@@ -4,23 +4,23 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
 Features
 
-Finance View: Explore P&L statements, product-level analysis, and Net Sales trends.
+  Finance View: Explore P&L statements, product-level analysis, and Net Sales trends.
 
-Sales View: Analyze customer and product performance using dynamic charts, filters, and KPIs.
+  Sales View: Analyze customer and product performance using dynamic charts, filters, and KPIs.
 
-Marketing View: Gain insights into product and regional performance metrics.
+  Marketing View: Gain insights into product and regional performance metrics.
 
-Supply Chain View: Review Forecast Accuracy, Net Error, and risk metrics.
+  Supply Chain View: Review Forecast Accuracy, Net Error, and risk metrics.
 
-Executive View: Access high-level insights with KPI cards and revenue breakdowns.
+  Executive View: Access high-level insights with KPI cards and revenue breakdowns.
 
 Data Sources
 
-The dashboard gathers data from multiple sources:
+  The dashboard gathers data from multiple sources:
 
-Excel / CSV files: Targets, Market Share, and related datasets
+   Excel / CSV files: Targets, Market Share, and related datasets
 
-Fact and Dimension tables
+   Fact and Dimension tables
 
 Skills Learned
 
