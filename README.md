@@ -5,15 +5,15 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 :
 
-  𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰: Explore P&L statements, product-level analysis, and Net Sales trends.
+  Finance View: Explore P&L statements, product-level analysis, and Net Sales trends.
 
-  𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰: Analyze customer and product performance using dynamic charts, filters, and KPIs.
+  Sales View: Analyze customer and product performance using dynamic charts, filters, and KPIs.
 
-  𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰: Gain insights into product and regional performance metrics.
+  Marketing View: Gain insights into product and regional performance metrics.
 
-  𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰: Review Forecast Accuracy, Net Error, and risk metrics.
+  Supply Chain View: Review Forecast Accuracy, Net Error, and risk metrics.
 
-  𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰: Access high-level insights with KPI cards and revenue breakdowns.
+  Executive View: Access high-level insights with KPI cards and revenue breakdowns.
 
 
 
