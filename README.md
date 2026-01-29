@@ -44,4 +44,13 @@ It provides actionable insights into Finance, Sales, Marketing, Supply Chain, an
 
   Stakeholder communication
 
-  Data integration from multiple sources (Excel/CSV, MySQL, etc.)
+  Data integration from multiple sources(Excel/CSV , MySQL ,etc)
+
+  ## 📁 Download PBIX File
+
+Click the link below to access the complete Power BI project file:
+
+🔗 **business_insights_360.pbix**  
+[https://drive.google.com/file/d/1UVK6YqHG6V2V4Yo7WFv-DM1Sp0hhDii2/view?usp=sharing](https://drive.google.com/file/d/1UVK6YqHG6V2V4Yo7WFv-DM1Sp0hhDii2/view?usp=sharing)
+
+  
